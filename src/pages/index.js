@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
 import Navbar from '../components/Navbar'
-import { Nav } from '../components/Navbar/NavbarElements'
 import Sidebar from '../components/Sidebar'
 
 const Home = () => {
