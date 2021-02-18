@@ -29,7 +29,7 @@ const Footer = () => {
                         <FooterLinksItems>
                             <FooterLinkTitle>A propos</FooterLinkTitle>
                                 <FooterLink to='/signin'>A propos</FooterLink>
-                                <FooterLink to='/signin'>Témoignage</FooterLink>
+                                <FooterLink to='/signin'>Témoignages</FooterLink>
                                 <FooterLink to='/signin'>Carrière</FooterLink>
                                 <FooterLink to='/signin'>Investir</FooterLink>
                                 <FooterLink to='/signin'>Comment ça marche ?</FooterLink>
@@ -66,7 +66,7 @@ const Footer = () => {
                             Diamond Shield
                         </SocialLogo>
                         <WebsiteRight>
-                            Diamond Shield © {new Date().getUTCFullYear()} tout droits réservé
+                            Diamond Shield © {new Date().getUTCFullYear()} tout droits réservés
                         </WebsiteRight>
                         <SocialIcons>
                             <SocialIconLink href='/' target='/_blank' aria-label='Linkedin'>
